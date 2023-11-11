@@ -8,6 +8,6 @@ class UserController extends Controller
 {
     public function showMessage()
     {
-        return "<h1>Hello, Laravel!</h1>";
+        return view('welcome');
     }
 }

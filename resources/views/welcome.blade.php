@@ -1,3 +1,1 @@
-<h1>
-    Hello milon
-</h1>
+<h1>Hello, Laravel!</h1>
